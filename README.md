@@ -24,17 +24,16 @@ These days I build web apps with JavaScript and React, and I'm working my way to
 
 **Comfortable with:** JavaScript · React (hooks, context, router) · HTML · CSS · Material UI · Vite · Git
 
-**Currently learning:** Node.js, Express, and databases to round out the back end
 
 ## What I'm building
 
-- **[Shift Compliance Tracker](https://github.com/ethan-webster13/Shift-Compliance-Tracker)** — a workforce dashboard with a JWT-style auth flow and protected routes, modeled on the food-safety operations I used to manage. _(React · React Router · Context API)_
+- **[Shift Compliance Tracker](https://github.com/ethan-webster13/santitation-roster-compliance-tracker)** — a workforce dashboard with a JWT-style auth flow and protected routes, modeled on the food-safety operations I used to manage. _(React · React Router · Context API)_
 - **[Drone Inventory Management](https://github.com/ethan-webster13/Drone-Tracking)** — an FPV-parts inventory tracker with inline editing and `localStorage` persistence. _(React · Vite)_
 - **[Contact List](https://github.com/ethan-webster13/Contact-List)** — a CRUD contacts app that consumes a REST API, with live form validation and phone formatting. _(React · Material UI)_
 
 ## Let's connect
 
-- **LinkedIn:** _add your profile URL here_
+- **LinkedIn:** _(https://www.linkedin.com/in/ethan-webster-dev)_
 - **Email:** ethan.webster@gmail.com
 
 I'm currently **open to junior and entry-level developer roles** — feel free to reach out.
