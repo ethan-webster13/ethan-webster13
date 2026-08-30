@@ -29,9 +29,10 @@ I ship it, and speed up implementation on the parts I already understand — whi
 one making the architecture and logic calls. It's the same instinct from my manufacturing
 days: use the right tool to move faster, but never stop understanding the machine.
 ## What I'm building
+- **[Paver Calculator]((https://github.com/ethan-webster13/Footage-Calculator))** · **[🚀 Live Demo](https://footage-and-piece-calculator.vercel.app/)** — a hardscape materials estimator built from my own landscaping work, handling paver pattern math and piece-count ordering instead of naive area math, with a framework-agnostic core built to port to Capacitor later. _(React · TypeScript · Vitest)_
 - **[Shift Roster and Compliance Tracker](https://github.com/ethan-webster13/sanitation-roster-compliance-tracker)** · **[🚀 Live Demo](https://sanitation-roster-compliance-track.vercel.app/)** — a workforce dashboard with a JWT-style auth flow and protected routes, modeled on the food-safety operations I used to manage. _(React · React Router · Context API)_
-- **[Weather Dashboard](https://github.com/ethan-webster13/weather-dashboard)** — a weather app pulling live conditions and forecasts from the Open-Meteo API, built TypeScript-first with strict typing across API responses, a generic data-fetching hook, and discriminated-union state. _(React · TypeScript · Vite · REST API)_
 - **[TrackBoard](https://github.com/ethan-webster13/trackboard)** — a job application tracker with Firebase Authentication and Firestore persistence, pulling live listings from the Remotive API. _(React · Vite · Firebase · REST API)_
+- **[Weather Dashboard](https://github.com/ethan-webster13/weather-dashboard)** — a weather app pulling live conditions and forecasts from the Open-Meteo API, built TypeScript-first with strict typing across API responses, a generic data-fetching hook, and discriminated-union state. _(React · TypeScript · Vite · REST API)_
 - **[Sprout Gaming](https://sprout-gaming.com)** — the site for an indie game studio I'm building with my brother-in-law, with a Canvas API particle field and scroll-driven animations that set the tone for our upcoming horror releases. _(React · JavaScript · CSS · Canvas API)_
 ## Let's connect
 - **LinkedIn:** _(https://www.linkedin.com/in/ethan-webster-dev)_
